@@ -1,0 +1,43 @@
+C:\Aishwarya\BCCorrections\BCCorrections_DH_SepCon\DH_SeoCon_ScheduledJobs\bin\Debug\DH_SeoCon_ScheduledJobs.exe.config
+C:\Aishwarya\BCCorrections\BCCorrections_DH_SepCon\DH_SeoCon_ScheduledJobs\bin\Debug\DH_SeoCon_ScheduledJobs.exe
+C:\Aishwarya\BCCorrections\BCCorrections_DH_SepCon\DH_SeoCon_ScheduledJobs\bin\Debug\DH_SeoCon_ScheduledJobs.pdb
+C:\Aishwarya\BCCorrections\BCCorrections_DH_SepCon\DH_SeoCon_ScheduledJobs\bin\Debug\Microsoft.Xrm.Tooling.Connector.dll
+C:\Aishwarya\BCCorrections\BCCorrections_DH_SepCon\DH_SeoCon_ScheduledJobs\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Aishwarya\BCCorrections\BCCorrections_DH_SepCon\DH_SeoCon_ScheduledJobs\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Aishwarya\BCCorrections\BCCorrections_DH_SepCon\DH_SeoCon_ScheduledJobs\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+C:\Aishwarya\BCCorrections\BCCorrections_DH_SepCon\DH_SeoCon_ScheduledJobs\bin\Debug\Microsoft.Xrm.Sdk.Deployment.dll
+C:\Aishwarya\BCCorrections\BCCorrections_DH_SepCon\DH_SeoCon_ScheduledJobs\bin\Debug\Newtonsoft.Json.dll
+C:\Aishwarya\BCCorrections\BCCorrections_DH_SepCon\DH_SeoCon_ScheduledJobs\bin\Debug\Microsoft.Xrm.Tooling.Connector.xml
+C:\Aishwarya\BCCorrections\BCCorrections_DH_SepCon\DH_SeoCon_ScheduledJobs\bin\Debug\Microsoft.Xrm.Sdk.xml
+C:\Aishwarya\BCCorrections\BCCorrections_DH_SepCon\DH_SeoCon_ScheduledJobs\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+C:\Aishwarya\BCCorrections\BCCorrections_DH_SepCon\DH_SeoCon_ScheduledJobs\bin\Debug\Microsoft.Xrm.Sdk.Deployment.xml
+C:\Aishwarya\BCCorrections\BCCorrections_DH_SepCon\DH_SeoCon_ScheduledJobs\obj\Debug\DH_SeoCon_ScheduledJobs.csproj.CoreCompileInputs.cache
+C:\Aishwarya\BCCorrections\BCCorrections_DH_SepCon\DH_SeoCon_ScheduledJobs\obj\Debug\DH_SeoCon_ScheduledJobs.csproj.CopyComplete
+C:\Aishwarya\BCCorrections\BCCorrections_DH_SepCon\DH_SeoCon_ScheduledJobs\obj\Debug\DH_SeoCon_ScheduledJobs.exe
+C:\Aishwarya\BCCorrections\BCCorrections_DH_SepCon\DH_SeoCon_ScheduledJobs\obj\Debug\DH_SeoCon_ScheduledJobs.pdb
+C:\Aishwarya\BCCorrections\BCCorrections_DH_SepCon\DH_SeoCon_ScheduledJobs\obj\Debug\DH_SeoCon_ScheduledJobs.csprojAssemblyReference.cache
+C:\Aishwarya\BCCorrections\GIT Repository\cor-dyn-solution\Customizations\BCCorrections_DH_SepCon\DH_SeoCon_ScheduledJobs\obj\Debug\DH_SeoCon_ScheduledJobs.csproj.CoreCompileInputs.cache
+C:\Aishwarya\BCCorrections\GIT Repository\cor-dyn-solution\Customizations\BCCorrections_DH_SepCon\DH_SeoCon_ScheduledJobs\bin\Debug\DH_SeoCon_ScheduledJobs.exe.config
+C:\Aishwarya\BCCorrections\GIT Repository\cor-dyn-solution\Customizations\BCCorrections_DH_SepCon\DH_SeoCon_ScheduledJobs\bin\Debug\DH_SeoCon_ScheduledJobs.exe
+C:\Aishwarya\BCCorrections\GIT Repository\cor-dyn-solution\Customizations\BCCorrections_DH_SepCon\DH_SeoCon_ScheduledJobs\bin\Debug\DH_SeoCon_ScheduledJobs.pdb
+C:\Aishwarya\BCCorrections\GIT Repository\cor-dyn-solution\Customizations\BCCorrections_DH_SepCon\DH_SeoCon_ScheduledJobs\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Aishwarya\BCCorrections\GIT Repository\cor-dyn-solution\Customizations\BCCorrections_DH_SepCon\DH_SeoCon_ScheduledJobs\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Aishwarya\BCCorrections\GIT Repository\cor-dyn-solution\Customizations\BCCorrections_DH_SepCon\DH_SeoCon_ScheduledJobs\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+C:\Aishwarya\BCCorrections\GIT Repository\cor-dyn-solution\Customizations\BCCorrections_DH_SepCon\DH_SeoCon_ScheduledJobs\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+C:\Aishwarya\BCCorrections\GIT Repository\cor-dyn-solution\Customizations\BCCorrections_DH_SepCon\DH_SeoCon_ScheduledJobs\bin\Debug\Microsoft.Xrm.Sdk.Deployment.dll
+C:\Aishwarya\BCCorrections\GIT Repository\cor-dyn-solution\Customizations\BCCorrections_DH_SepCon\DH_SeoCon_ScheduledJobs\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Aishwarya\BCCorrections\GIT Repository\cor-dyn-solution\Customizations\BCCorrections_DH_SepCon\DH_SeoCon_ScheduledJobs\bin\Debug\Microsoft.Xrm.Sdk.Workflow.dll
+C:\Aishwarya\BCCorrections\GIT Repository\cor-dyn-solution\Customizations\BCCorrections_DH_SepCon\DH_SeoCon_ScheduledJobs\bin\Debug\Microsoft.Xrm.Tooling.Connector.dll
+C:\Aishwarya\BCCorrections\GIT Repository\cor-dyn-solution\Customizations\BCCorrections_DH_SepCon\DH_SeoCon_ScheduledJobs\bin\Debug\Newtonsoft.Json.dll
+C:\Aishwarya\BCCorrections\GIT Repository\cor-dyn-solution\Customizations\BCCorrections_DH_SepCon\DH_SeoCon_ScheduledJobs\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+C:\Aishwarya\BCCorrections\GIT Repository\cor-dyn-solution\Customizations\BCCorrections_DH_SepCon\DH_SeoCon_ScheduledJobs\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Aishwarya\BCCorrections\GIT Repository\cor-dyn-solution\Customizations\BCCorrections_DH_SepCon\DH_SeoCon_ScheduledJobs\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.xml
+C:\Aishwarya\BCCorrections\GIT Repository\cor-dyn-solution\Customizations\BCCorrections_DH_SepCon\DH_SeoCon_ScheduledJobs\bin\Debug\Microsoft.Xrm.Sdk.xml
+C:\Aishwarya\BCCorrections\GIT Repository\cor-dyn-solution\Customizations\BCCorrections_DH_SepCon\DH_SeoCon_ScheduledJobs\bin\Debug\Microsoft.Xrm.Sdk.Deployment.xml
+C:\Aishwarya\BCCorrections\GIT Repository\cor-dyn-solution\Customizations\BCCorrections_DH_SepCon\DH_SeoCon_ScheduledJobs\bin\Debug\Microsoft.Xrm.Sdk.Workflow.xml
+C:\Aishwarya\BCCorrections\GIT Repository\cor-dyn-solution\Customizations\BCCorrections_DH_SepCon\DH_SeoCon_ScheduledJobs\bin\Debug\Microsoft.Xrm.Tooling.Connector.xml
+C:\Aishwarya\BCCorrections\GIT Repository\cor-dyn-solution\Customizations\BCCorrections_DH_SepCon\DH_SeoCon_ScheduledJobs\bin\Debug\Newtonsoft.Json.xml
+C:\Aishwarya\BCCorrections\GIT Repository\cor-dyn-solution\Customizations\BCCorrections_DH_SepCon\DH_SeoCon_ScheduledJobs\obj\Debug\DH_SeoCon_ScheduledJobs.csproj.CopyComplete
+C:\Aishwarya\BCCorrections\GIT Repository\cor-dyn-solution\Customizations\BCCorrections_DH_SepCon\DH_SeoCon_ScheduledJobs\obj\Debug\DH_SeoCon_ScheduledJobs.exe
+C:\Aishwarya\BCCorrections\GIT Repository\cor-dyn-solution\Customizations\BCCorrections_DH_SepCon\DH_SeoCon_ScheduledJobs\obj\Debug\DH_SeoCon_ScheduledJobs.pdb
+C:\Aishwarya\BCCorrections\GIT Repository\cor-dyn-solution\Customizations\BCCorrections_DH_SepCon\DH_SeoCon_ScheduledJobs\obj\Debug\DH_SeoCon_ScheduledJobs.csprojAssemblyReference.cache

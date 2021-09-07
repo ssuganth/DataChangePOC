@@ -1,0 +1,21 @@
+C:\Aishwarya\BCCorrections\BCCorrections_DH_SepCon\DH_SepCon_Plugins\bin\Release\DH_SepCon_Plugins.dll
+C:\Aishwarya\BCCorrections\BCCorrections_DH_SepCon\DH_SepCon_Plugins\bin\Release\DH_SepCon_Plugins.pdb
+C:\Aishwarya\BCCorrections\BCCorrections_DH_SepCon\DH_SepCon_Plugins\bin\Release\Microsoft.Crm.Sdk.Proxy.dll
+C:\Aishwarya\BCCorrections\BCCorrections_DH_SepCon\DH_SepCon_Plugins\bin\Release\Microsoft.Xrm.Sdk.dll
+C:\Aishwarya\BCCorrections\BCCorrections_DH_SepCon\DH_SepCon_Plugins\bin\Release\Microsoft.Crm.Sdk.Proxy.xml
+C:\Aishwarya\BCCorrections\BCCorrections_DH_SepCon\DH_SepCon_Plugins\bin\Release\Microsoft.Xrm.Sdk.xml
+C:\Aishwarya\BCCorrections\BCCorrections_DH_SepCon\DH_SepCon_Plugins\obj\Release\DH_SepCon_Plugins.csproj.CoreCompileInputs.cache
+C:\Aishwarya\BCCorrections\BCCorrections_DH_SepCon\DH_SepCon_Plugins\obj\Release\DH_SepCon_Plugins.csproj.CopyComplete
+C:\Aishwarya\BCCorrections\BCCorrections_DH_SepCon\DH_SepCon_Plugins\obj\Release\DH_SepCon_Plugins.dll
+C:\Aishwarya\BCCorrections\BCCorrections_DH_SepCon\DH_SepCon_Plugins\obj\Release\DH_SepCon_Plugins.pdb
+C:\Aishwarya\BCCorrections\BCCorrections_DH_SepCon\DH_SepCon_Plugins\obj\Release\DH_SepCon_Plugins.csprojAssemblyReference.cache
+C:\Aishwarya\BCCorrections\GIT Repository\cor-dyn-solution\Customizations\BCCorrections_DH_SepCon\DH_SepCon_Plugins\bin\Release\DH_SepCon_Plugins.dll
+C:\Aishwarya\BCCorrections\GIT Repository\cor-dyn-solution\Customizations\BCCorrections_DH_SepCon\DH_SepCon_Plugins\bin\Release\DH_SepCon_Plugins.pdb
+C:\Aishwarya\BCCorrections\GIT Repository\cor-dyn-solution\Customizations\BCCorrections_DH_SepCon\DH_SepCon_Plugins\bin\Release\Microsoft.Crm.Sdk.Proxy.dll
+C:\Aishwarya\BCCorrections\GIT Repository\cor-dyn-solution\Customizations\BCCorrections_DH_SepCon\DH_SepCon_Plugins\bin\Release\Microsoft.Xrm.Sdk.dll
+C:\Aishwarya\BCCorrections\GIT Repository\cor-dyn-solution\Customizations\BCCorrections_DH_SepCon\DH_SepCon_Plugins\bin\Release\Microsoft.Crm.Sdk.Proxy.xml
+C:\Aishwarya\BCCorrections\GIT Repository\cor-dyn-solution\Customizations\BCCorrections_DH_SepCon\DH_SepCon_Plugins\bin\Release\Microsoft.Xrm.Sdk.xml
+C:\Aishwarya\BCCorrections\GIT Repository\cor-dyn-solution\Customizations\BCCorrections_DH_SepCon\DH_SepCon_Plugins\obj\Release\DH_SepCon_Plugins.csproj.CoreCompileInputs.cache
+C:\Aishwarya\BCCorrections\GIT Repository\cor-dyn-solution\Customizations\BCCorrections_DH_SepCon\DH_SepCon_Plugins\obj\Release\DH_SepCon_Plugins.csproj.CopyComplete
+C:\Aishwarya\BCCorrections\GIT Repository\cor-dyn-solution\Customizations\BCCorrections_DH_SepCon\DH_SepCon_Plugins\obj\Release\DH_SepCon_Plugins.dll
+C:\Aishwarya\BCCorrections\GIT Repository\cor-dyn-solution\Customizations\BCCorrections_DH_SepCon\DH_SepCon_Plugins\obj\Release\DH_SepCon_Plugins.pdb
